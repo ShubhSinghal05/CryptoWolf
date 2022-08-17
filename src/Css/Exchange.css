@@ -1,0 +1,32 @@
+.exchange-div{
+   border:1px solid greenyellow;
+   height:auto;
+   width:700px;
+   margin-left:41%;
+   border-radius:50px;
+   margin-top:20px;
+   box-shadow: 5px 3px 8px 3px #baea0d;
+   text-align: center;
+   display:grid;
+   grid-template-columns:auto auto; 
+   grid-template-rows: auto auto; 
+   
+}
+.exchange-main_div{
+    display:grid;
+    grid-template-columns:auto auto; 
+    grid-template-rows: auto auto; 
+}
+
+.exchange-img{
+    border-radius: 50%;
+    margin-left: -20%;
+    margin-top: 10%;
+    width:30%;
+    box-shadow: greenyellow 5px 5px 20px;
+}
+.exchange-id{
+    margin-left: 10px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration:underline;
+}

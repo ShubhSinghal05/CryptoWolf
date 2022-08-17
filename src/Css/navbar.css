@@ -1,0 +1,39 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    /* margin-top: -13%; */
+    /* border: 1px solid greenyellow; */
+    height:5%;
+    /* margin-top: -13%; */
+}
+.logo-img{
+     /* border: 1px solid greenyellow; */
+    width: 350px;
+    height:380px;
+    margin-left: -3%;
+    margin-top: -141px; 
+}
+.link{
+    margin: 20px;
+    /* justify-content: space-between; */
+    margin-left: -10%;
+    font-size: x-large;
+    text-decoration: none;
+    justify-content: center;
+    /* margin-left: -5%; */
+    color : greenyellow;
+}
+#dark{
+    background-color: #303030;
+    color : greenyellow;
+}
+#light{
+    background-color:white;
+    color : black;
+    
+}
+button{
+    width:95px;
+    height:35px;
+    border-radius: 10px;
+}

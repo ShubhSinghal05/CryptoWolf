@@ -1,0 +1,21 @@
+.pricing-mainDiv{
+    display:grid;
+    margin-left: 37%;
+    margin-bottom: 15%;
+    margin-top: -5%;
+}
+.pricing-inp{
+    width:400px;
+    height:45px;
+    margin:2px;
+}
+.pricing-btn{
+    margin-left: 12%;
+    width:140px;
+    height:45px;
+}
+h1{
+    margin-left: 12%;
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, cursive;
+}
